@@ -15,8 +15,6 @@ def acronomyze(string)
   string_together.upcase
 end
 
-puts acronomyze('Ekrem Nurovic')
-
 puts acronomyze('Away From Keyboard') == 'AFK'
 puts acronomyze('Out of Offce') == 'OOO'
 puts acronomyze('') == ''
