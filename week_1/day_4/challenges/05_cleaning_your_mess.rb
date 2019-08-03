@@ -7,5 +7,3 @@ def hop_hop_hop(number_of_exercises)
     puts counter.join(' ') + ' One more time...'
   end
 end
-
-hop_hop_hop(6)
